@@ -43,7 +43,7 @@ The **external APls** (Google Maps, OpenWeather, Geolocation,Crowdsource hiking 
 - Handles client-side routing, allowing for smooth navigation between views (e.g., Home,My Hikes, Plan Hike) without full page reloads.
 
 ## Jest & React Testing Library:
--Provide a framework for writing unit and integration tests to ensure components behave as expected, reducing bugs in production.
+- Provide a framework for writing unit and integration tests to ensure components behave as expected, reducing bugs in production.
 
 # 4. Backend as a Service (BaaS)-Firebase
   Instead of building a custom backend, we leverage **Firebase** to provide a complete backend infrastructure, reducing development overhead while maintaining high reliability and scalability.
@@ -62,7 +62,7 @@ The **external APls** (Google Maps, OpenWeather, Geolocation,Crowdsource hiking 
 - Firebase Hosting: Deployment of frontend application.   
 - Firebase Functions: Serverless backend logic for advanced feature
 
-##Framework: Express.js
+## Framework: Express.js
 - **Purpose:** Build lightweight, fast, and flexible server-side applications and APls.
 - **Reason for Choice:**
   - Minimal framework, allowing flexibility in structure.
