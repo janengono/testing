@@ -33,7 +33,7 @@ This file serves as a **table of contents** and guide to navigate both **product
 
 ## 🗂 Documentation Structure
 
-                                                          ![text](doc_structure.png)  
+![text](doc_structure.png)  
 
 
 
