@@ -51,10 +51,10 @@ This file serves as a **table of contents** and guide to navigate both **product
 ## 📊 Metrics Approach
 
 To measure project quality and progress, we track:
-- ✅ Story points completed per sprint.  
-- ✅ Number of test cases written vs. passed.  
-- ✅ Bugs logged and resolved.  
-- ✅ Deployment success rate.  
+- Story points completed per sprint.  
+- Number of test cases written vs. passed.  
+- Bugs logged and resolved.  
+- Deployment success rate.  
 
 ---
 
