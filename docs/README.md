@@ -29,3 +29,56 @@ Our tutor and stakeholder emphasized the importance of **clear, professional, an
 
 ## 🗂 Documentation Structure
 
+📦 Hiking-Logbook
+┣ 📂 docs
+┃ ┣ 📂 product
+┃ ┃ ┣ 📜 requirements.md
+┃ ┃ ┣ 📜 ux.md
+┃ ┃ ┣ 📜 architecture.md
+┃ ┃ ┗ 📜 testing.md
+┃ ┣ 📂 process
+┃ ┃ ┣ 📜 strategy.md
+┃ ┃ ┣ 📜 technology.md
+┃ ┃ ┣ 📜 release.md
+┃ ┃ ┣ 📜 metrics.md
+┃ ┃ ┗ 📜 standards.md
+┃ ┗ 📜 glossary.md
+┣ 📜 README.md
+┗ (source code here…)
+
+
+---
+
+## 📌 Documentation Standards
+
+- **File Format**: Markdown (`.md`) for readability on GitHub and easy conversion to PDF if required.  
+- **Naming Conventions**: Lowercase filenames with underscores if needed (e.g., `architecture_design.md`).  
+- **Cross-Referencing**: Each requirement is traceable to UX artifacts, architecture components, and test cases.  
+- **Versioning**: Documentation evolves with each sprint and release. Previous versions are tracked in Git history.  
+
+---
+
+## 📊 Metrics Approach
+
+To measure project quality and progress, we track:
+- ✅ Story points completed per sprint.  
+- ✅ Number of test cases written vs. passed.  
+- ✅ Bugs logged and resolved.  
+- ✅ Deployment success rate.  
+
+---
+
+## 📚 Glossary
+
+- **Logbook**: A digital record of hikes including notes, weather, and GPS routes.  
+- **Planned Hike**: A scheduled hike with route, checklist, and invited friends.  
+- **Achievements**: User-defined goals (e.g., total distance, number of hikes) with tracked progress.  
+- **Activity Feed**: Timeline showing hikes and milestones from friends.  
+
+---
+
+## 🚀 Purpose of this Documentation
+
+This documentation is designed not just to explain the final product but to demonstrate the **process, quality standards, and intentionality** behind its development. It reflects both the *engineering mindset* and *collaborative teamwork* that went into the Hiking Logbook project.
+
+
