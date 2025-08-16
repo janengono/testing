@@ -1,9 +1,13 @@
 # Hiking Logbook – Documentation
 
 Welcome to the documentation hub for the **Hiking Logbook** project.  
-This file serves as a **table of contents** and guide to navigate both **product documentation** (what we built) and **process documentation** (how we built it).  
+This file serves as a **table of contents** and guide to navigate both **product documentation** (what we are building) and **process documentation** (how we are building).  
 
-Our tutor and stakeholder emphasized the importance of **clear, professional, and high-quality documentation**, so this structure is designed to be intentional, consistent, and easy to follow.
+> ⚠️ **Note:**  
+> This documentation is a **living document**.  
+> It may evolve as the project progresses and new requirements, features, or feedback are introduced.  
+> All updates will be traceable through Git history.
+
 
 ---
 
@@ -29,22 +33,8 @@ Our tutor and stakeholder emphasized the importance of **clear, professional, an
 
 ## 🗂 Documentation Structure
 
-📦 Hiking-Logbook
-┣ 📂 docs
-┃ ┣ 📂 product
-┃ ┃ ┣ 📜 requirements.md
-┃ ┃ ┣ 📜 ux.md
-┃ ┃ ┣ 📜 architecture.md
-┃ ┃ ┗ 📜 testing.md
-┃ ┣ 📂 process
-┃ ┃ ┣ 📜 strategy.md
-┃ ┃ ┣ 📜 technology.md
-┃ ┃ ┣ 📜 release.md
-┃ ┃ ┣ 📜 metrics.md
-┃ ┃ ┗ 📜 standards.md
-┃ ┗ 📜 glossary.md
-┣ 📜 README.md
-┗ (source code here…)
+                                                          ![text](doc_structure.png)  
+
 
 
 ---
