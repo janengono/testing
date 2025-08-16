@@ -2,6 +2,8 @@
 
 The Hiking Logbook is built using a modern, integrated technology stack designed to streamline development, ensure scalability, and deliver a seamless user experience. Each technology has been carefully chosen to align with the project requirements for functionality, maintainability,and performance.
 
+How to setup your development environment <a href="https://janengono.github.io/testing/dev-setup.html" target="_blank">here.</a>
+
 # 1. Overview
 
 The Hiking Logbook is a **single-page web application** where the frontend (React \+ Tailwind) communicates directly with Firebase's backend services via Firebase SDKs. This eliminates the need for a self-hosted backend,reducing infrastructure complexity. User actions, such as logging a hike or checking the weather for a trail, trigger either:
