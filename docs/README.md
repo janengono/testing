@@ -12,13 +12,15 @@ The Hiking Logbook is a **single-page web application** where the frontend (Reac
 The **external APls** (Google Maps, OpenWeather, Geolocation,Crowdsource hiking Info) provide real-time,location-based services,which are integrated through Firebase Cloud Functions or directly in the frontend where appropriate. All deployments are managed through **GitHub Actions** to **Firebase Hosting**, ensuring that every update passes linting, testing,and Cl/CD checks before going live.
 
 ![text](Untitled-2025-08-13-1535.png)  
-Diagram showcasing the different components of the tech stack
+*Diagram showcasing the different components of the tech stack.*
 
-JavaScript $\pmb { \left( \mathsf { E S 6 } + \right) }$ - The primary programming language for both the frontend and backend, allowing a unified development experience. Using JavaScript across the stack enables faster development and easier knowledge sharing within the team.   
-. HTML5 - Used for structuring the frontend's content and ensuring semantic, accessible design.   
-. CSS3 - Used for styling and ensuring responsive layouts, particularly with the help of Tailwind CSS.
+# 2. Programming langauges
 
-# 3.Frontend
+- **JavaScript \(ES6+\)** - The primary programming language for both the frontend and backend, allowing a unified development experience. Using JavaScript across the stack enables faster development and easier knowledge sharing within the team.   
+- **HTML5** - Used for structuring the frontend's content and ensuring semantic, accessible design.   
+- **CSS3** - Used for styling and ensuring responsive layouts, particularly with the help of Tailwind CSS.
+
+# 3. Frontend
 
   The frontend forms the user interface of the Hiking Logbook, where users can interact with features such as hike logging, route viewing,and weather checks.
 
